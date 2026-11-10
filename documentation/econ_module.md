@@ -19,7 +19,7 @@ The population of vessels in the statistical model is: "Vessels that landed grou
 The statistical economic module has two stages. In the first stage, we estimate this harvest equation   
 
 ```math
-H_{nit}=h(q_{ni},E_{nit},{X_{it})
+H_{nit}=h(q_{ni},E_{nit},X_{it})
 ```
 This is estimated equation-by-equation with ordinary least squares, using a log-log functional form.
 
